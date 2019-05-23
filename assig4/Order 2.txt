@@ -1,0 +1,19 @@
+RESTAURANT INC.		DATE: Tue May 21 11:44:10 EEST 2019
+
+
+
+
+
+TABLE:2
+
+PRODUCTS CONSUMED:
+
+Ketchup - 2.0
+
+Pizza - 10.0
+
+
+----------------------------------------------
+
+
+TOTAL PRICE:	12.0
